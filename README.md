@@ -1,4 +1,4 @@
-<p align="left">Cloud Consulting | Project Manager | Product Manager | Technical Team Leader</p>
+<p align="left">Cloud Consulting | Project Manager | Product Manager | Technical Team Leader | Developer</p>
 
 ###
 
