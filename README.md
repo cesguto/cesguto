@@ -1,6 +1,6 @@
-## Hi there 
+## Cesar Augusto Leitão
 
-<p align="left">Cesar Augusto Leitão<br>Cloud Consulting | Project Manager | Product Manager | Technical Team Leader</p>
+<p align="left">Cloud Consulting | Project Manager | Product Manager | Technical Team Leader</p>
 
 ###
 
