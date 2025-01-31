@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Plataformas Cloud</p>
+## Plataformas Cloud
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">Redes Sociais</p>
+## Redes Sociais
 
 ###
 
